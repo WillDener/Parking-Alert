@@ -1,4 +1,4 @@
-package com.fatec.parkingalert.ParkingAlert;
+package com.fatec.parkingalert;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

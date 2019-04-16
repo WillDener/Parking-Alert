@@ -1,4 +1,4 @@
-package com.fatec.parkingalert.ParkingAlert;
+package com.fatec.parkingalert;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
