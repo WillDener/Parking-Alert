@@ -5,6 +5,6 @@ import lombok.Data;
 @Data
 public class ParkingSpot {
 
-    final String descricao;
+    private Long vagas;
 
 }

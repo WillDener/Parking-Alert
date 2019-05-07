@@ -10,6 +10,6 @@ public class ParkingService {
 
     public ResponseEntity<ParkingSpot> buscarVaga(){
         RestTemplate template = new RestTemplate();
-        return template.getForEntity("", ParkingSpot.class);
+        return template.getForEntity("http://127.0.0.1:5000/", ParkingSpot.class);
     }
 }
